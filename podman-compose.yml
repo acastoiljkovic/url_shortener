@@ -1,0 +1,32 @@
+version: "3.9"
+
+services:
+  redis:
+    image: redis:7-alpine
+    container_name: redis_server
+    networks:
+      - shortener_net
+    ports:
+      - "6379:6379"
+
+  url_shortener:
+    build:
+      context: .
+      dockerfile: Containerfile
+    container_name: url_shortener_app
+    environment:
+      - APP_PORT=8888
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
+      - BASE_URL=http://localhost:8888/
+      - URL_TTL=2592000
+    ports:
+      - "8888:8888"
+    depends_on:
+      - redis
+    networks:
+      - shortener_net
+
+networks:
+  shortener_net:
+    driver: bridge

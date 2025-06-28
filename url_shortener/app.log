@@ -1,0 +1,33 @@
+[2025-06-26 20:28:13] Starting URL Shortener
+[2025-06-26 20:28:13] Failed to start HTTP server
+[2025-06-26 20:28:13] Failed to start HTTP server
+[2025-06-26 20:30:52] Starting URL Shortener
+[2025-06-26 20:30:52] Failed to start HTTP server
+[2025-06-26 20:30:52] Failed to start HTTP server
+[2025-06-26 20:31:49] Starting URL Shortener
+[2025-06-26 20:31:49] HTTP server running on port 8888
+[2025-06-26 20:32:12] Shortened URL created: vHRCU7 -> https://www.google.com/
+[2025-06-26 20:32:16] Redirecting short URL 39Gaxb to https://www.google.com/
+[2025-06-26 20:32:18] Redirecting short URL 39Gaxb to https://www.google.com/
+[2025-06-27 19:51:08] Starting URL Shortener
+[2025-06-27 19:51:08] HTTP server running on port 8888
+[2025-06-27 20:42:10] Starting with Redis 127.0.0.1:6379, listening on port 8888, TTL 2592000 seconds, base URL http://localhost:8888/
+[2025-06-27 20:42:11] Failed to start HTTP server
+[2025-06-27 20:42:11] Failed to start HTTP server
+[2025-06-27 20:42:20] Starting with Redis 127.0.0.1:6379, listening on port 8888, TTL 2592000 seconds, base URL http://localhost:8888/
+[2025-06-27 20:42:20] HTTP server running on port 8888
+[2025-06-27 20:42:52] Shortened URL created: 27Bm1k -> https://www.google.com
+[2025-06-27 20:42:54] Shortened URL created: kTj6zx -> https://www.google.com
+[2025-06-27 20:42:55] Shortened URL created: OSzWty -> https://www.google.com
+[2025-06-27 20:42:56] Shortened URL created: 7LV3Yp -> https://www.google.com
+[2025-06-27 20:42:57] Shortened URL created: OUwjAg -> https://www.google.com
+[2025-06-27 20:43:02] Shortened URL created: P4p8PZ -> https://example.com/some/long/url
+[2025-06-27 20:43:02] Redirecting short URL P4p8PZ to https://example.com/some/long/url
+[2025-06-27 20:43:22] Shortened URL created: ICBvm2 -> https://example.com/some/long/url
+[2025-06-27 20:43:22] Redirecting short URL ICBvm2 to https://example.com/some/long/url
+[2025-06-27 20:43:23] Shortened URL created: ncpKMP -> https://example.com/some/long/url
+[2025-06-27 20:43:23] Redirecting short URL ncpKMP to https://example.com/some/long/url
+[2025-06-27 20:43:24] Shortened URL created: cgly4z -> https://example.com/some/long/url
+[2025-06-27 20:43:24] Redirecting short URL cgly4z to https://example.com/some/long/url
+[2025-06-27 20:43:25] Shortened URL created: i0NqG9 -> https://example.com/some/long/url
+[2025-06-27 20:43:25] Redirecting short URL i0NqG9 to https://example.com/some/long/url

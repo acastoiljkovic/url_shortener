@@ -1,0 +1,7 @@
+[2025-06-28 08:42:54] Starting with Redis 127.0.0.1:6379, listening on port 8888, TTL 2592000 seconds, base URL http://localhost:8888/
+[2025-06-28 08:42:54] Failed to start HTTP server
+[2025-06-28 08:42:54] Failed to start HTTP server
+[2025-06-28 08:45:07] Starting with Redis 127.0.0.1:6379, listening on port 8888, TTL 2592000 seconds, base URL http://localhost:8888/
+[2025-06-28 08:45:07] Failed to connect to Redis at 127.0.0.1:6379
+[2025-06-28 08:50:32] Starting with Redis 127.0.0.1:6379, listening on port 8888, TTL 2592000 seconds, base URL http://localhost:8888/
+[2025-06-28 08:50:32] Failed to connect to Redis at 127.0.0.1:6379
